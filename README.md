@@ -1,1 +1,1 @@
-# Coursera HTML, CSS, JavaScript
+# Coursera HTML5, CSS, JavaScript
