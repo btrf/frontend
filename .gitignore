@@ -45,3 +45,9 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.project
+mod2_solution/.settings/org.eclipse.wst.css.core.prefs
+*.jsdtscope
+mod2_solution/.settings/org.eclipse.wst.html.core.prefs
+*.container
+mod2_solution/.settings/org.eclipse.wst.jsdt.ui.superType.name
